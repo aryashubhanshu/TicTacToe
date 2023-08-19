@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    margin-top: 2%;
+    text-transform: uppercase;
+}
+
+table {
+    display: grid;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+}
+
+td {
+    border: 1px solid white;
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    font-size: 60px;
+    color: yellow;
+}
